@@ -1,7 +1,7 @@
 ## Hi, I'm Naiyer Hasnain !
 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering from ABESEC Ghaziabad.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2021b0101158)](https://github.com/2021b0101158/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2021b0101158&theme=dark&show_icons=true)
 <!--
 **2021b0101158/2021b0101158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
