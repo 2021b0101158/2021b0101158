@@ -1,8 +1,5 @@
 ## Hi, I'm Naiyer Hasnain !
-🌱 I’m currently pursuing B.Tech in Computer Science and Engineering from ABESEC Ghaziabad.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2021b0101158&theme=dark&show_icons=true)
-# 💫 About Me:
 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering from ABESEC Ghaziabad.
 
 
